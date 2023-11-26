@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\lab9-oop\lab9-oop\bin\Debug\net7.0\lab9-oop.exe
+C:\Users\user\Desktop\lab9-oop\lab9-oop\bin\Debug\net7.0\lab9-oop.deps.json
+C:\Users\user\Desktop\lab9-oop\lab9-oop\bin\Debug\net7.0\lab9-oop.runtimeconfig.json
+C:\Users\user\Desktop\lab9-oop\lab9-oop\bin\Debug\net7.0\lab9-oop.dll
+C:\Users\user\Desktop\lab9-oop\lab9-oop\bin\Debug\net7.0\lab9-oop.pdb
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.AssemblyInfo.cs
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.dll
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\refint\lab9-oop.dll
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.pdb
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\lab9-oop.genruntimeconfig.cache
+C:\Users\user\Desktop\lab9-oop\lab9-oop\obj\Debug\net7.0\ref\lab9-oop.dll
